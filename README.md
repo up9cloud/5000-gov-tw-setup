@@ -25,13 +25,13 @@
 - 登入健保快易通
 - 到首頁`健保 OTP 認證 One-Time PIN`
 
-![nhi home](./img/nhi-home.jpg){:width="100px"}
-<!-- <img width="100" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/nhi-home.jpg"> -->
+<!-- ![nhi home](./img/nhi-home.jpg){:width="300px"} -->
+<img width="300" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/nhi-home.jpg">
 
 - 點選`產製健保卡 OTP 認證碼`就會產生了
 
-![nhi gen](./img/nhi-gen.jpg){:width="100px"}
-<!-- <img width="100" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/nhi-gen.jpg"> -->
+<!-- ![nhi gen](./img/nhi-gen.jpg){:width="400px"} -->
+<img width="300" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/nhi-gen.jpg">
 
 ## 開始綁定
 
@@ -39,10 +39,10 @@
 
 - 主綁定人到[五倍券官網 OTP 登入](https://emake.5000.gov.tw/hpg/webLogin?token=bind&language=ch)
 
-![5000 login](./img/5000-login.jpg){:width="100px"}
-<!-- <img width="100" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/5000-login.jpg"> -->
-![5000 otp](./img/5000-otp.jpg){:width="100px"}
-<!-- <img width="100" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/5000-otp.jpg"> -->
+<!-- ![5000 login](./img/5000-login.jpg){:width="300px"} -->
+<img width="300" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/5000-login.jpg">
+<!-- ![5000 otp](./img/5000-otp.jpg){:width="300px"} -->
+<img width="300" src="https://raw.githubusercontent.com/up9cloud/nhi-5000/master/img/5000-otp.jpg">
 
 若是使用筆電，也可選讀卡機登入，這邊就不細說。
 
